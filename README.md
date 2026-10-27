@@ -10,7 +10,7 @@
 
 | 技能 | 干什么 | 触发说法 |
 | --- | --- | --- |
-| [`neo-brutalist-page`](skills/neo-brutalist-page) | 用新粗野主义（Neo-Brutalism）风格做单文件 HTML 宣传页／落地页／能力展示页／数据报告页。含固定色板与排版 token、组件配方、必做交互清单、禁忌清单、Bun.WebView 自检脚本，以及一份 795 行的完整参考实例 | 「做个宣传页」「做得酷一点」「粗野风」 |
+| [`neo-brutalist-page`](skills/neo-brutalist-page) | 用新粗野主义（Neo-Brutalism）风格做单文件 HTML 宣传页／落地页／能力展示页／数据报告页。含固定色板与排版 token、组件配方、必做交互清单、禁忌清单、Bun.WebView 自检脚本，以及一份 796 行的完整参考实例 | 「做个宣传页」「做得酷一点」「粗野风」 |
 | [`admin-console-ui-design`](skills/admin-console-ui-design) | 后台管理台（admin console）的视觉与交互系统：左侧栏 + 顶栏的应用壳、KPI 卡／对象卡／表格／表单／弹窗／登录页的组件配方、语义 token 与状态色映射、抓取页面的四种状态（loading／error／empty／success）、无障碍与键盘约束。React 19 + Tailwind v4；包名、路由、i18n、品牌名等占位符按项目替换 | 「做个后台页面」「管理台的列表页／表单／弹窗」「统一一下设计 token」「做个登录页」 |
 | [`web-style-skins`](skills/web-style-skins) | 「一份 DOM、多套皮肤」：内置三套已验证的风格配方（新粗野主义／终端 CRT／瑞士国际主义排版，参考实例里再加一套 Riso 套印），含每套的色板与排版 token、共享 DOM 的多皮肤框架（每格独立主题、网格↔单屏、localStorage 记忆、键盘操作）、以及一个会真的点按钮、按键盘、刷新页面跑 17 项断言的 Bun.WebView 自检脚本 | 「换一个风格试试」「几种风格对比一下」「做个终端风／瑞士风／极简排版的页面」「这个页面换个皮肤」 |
 
