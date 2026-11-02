@@ -149,4 +149,4 @@ bun run skills/ste-interactive-report/scripts/selfcheck.ts path/to/report.html 8
 
 ## 九、参考实例
 
-`reference/lite-report-example.html` — 一份真实单票研究报告，七个步骤、七个交互件、约 800 行，直接可跑自检。改数据时只动 `<script>` 块的 `const D` 与正文数字，结构与样式不用碰。
+`reference/lite-report-example.html` — 一份真实单票研究报告，七个步骤、七个交互件、约 800 行，直接可跑自检。改数据时只动 `<script>` 块的 `const D`。实例用真实公开行情作**演示数据**，复用前请整体替换 与正文数字，结构与样式不用碰。
